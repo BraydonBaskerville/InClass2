@@ -1,0 +1,20 @@
+/* Braydon Baskerville 8806051*/
+
+ h1 {
+    color: hsla(0, 0%, 0%, 0.863);
+    font-size: 30px;
+    
+ }
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: hsla(0, 92%, 47%, 0.5);
+    height:100vw;
+    width:50vw;
+}
+ h2 {
+    font-size: 25px;
+    color:#b30c0c;
+    line-height: 40px;
+    
+ }
+ 
